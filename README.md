@@ -2,7 +2,7 @@
 * **Это последняя версия поддерживающая Mayhem 3.14d** - https://github.com/alexalsp/x3ap-lu-rus
 
 # Домашняя страница 
-* https://apocalypse.moy.su/ 
+* https://apocalypse.moy.su
 
 # Репаки глобальных модов
 * https://apocalypse.moy.su/forum/216 
