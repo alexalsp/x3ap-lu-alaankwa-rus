@@ -44,21 +44,19 @@
 * SWLU: https://www.moddb.com/mods/star-wars-lu-swlu/downloads
 * GiC: https://www.moddb.com/mods/star-wars-lu-swlu/addons
 * M3: https://www.moddb.com/mods/mayhem/downloads
-* SWM3: https://www.moddb.com/games/star-wars-mayhem-3/downloads
+
 
 ### Инструкция
 1. Установить Litcube's Universe
 2. Опционально установите SWLU или M3
     * (SWLU) Star Wars Litcube's Universe
     * (M3) Mayhem 3
-3. Опционально установите GiC, M3R, или SWM3
+3. Опционально установите GiC
     * (GiC) Галактика в огне / Galaxy in Chaos - Требует SWLU
-    * (M3R) Mayhem 3 Rebalanced - Требует M3
-    * (SWM3) Star Wars Mayhem 3 - Требует M3
 4. Установите все остальные моды по желанию, кроме Alaankwa
 5. Опционально установите ReShade
 6. Установите Alaankwa
-7. Установите патч Alaankwa, если играете в SWLU, GIC, M3, M3R, SWM3 или SWLU ExtraShips
+7. Установите патч Alaankwa, если играете в SWLU, GIC или M3
 8. Если вам не нравится новый шрифт, удалите папку **'f'** в корневом каталоге установки **'x3 terran conflict'** (только для английской версии, этот шрифт не подходит для русской версии).
 
 ## Что за папки в моде и для чего они:
@@ -157,14 +155,14 @@
     * A new game font, Fantasque Sans Mono
         * https://github.com/belluzj/fantasque-sans
     * Quickshuttles notify the player when they have completed their task and have returned home.
-    * Suns visual lighting output increased to 200% (The game shouldn't be as dark anymore).
+
     * Debugging scripts for development
         * Can take in any text decodable object, say an array of tables, and output it in game to the user
         * Call the script like this: $debug.return = [NULL] -> call script 'tv.debug': param.debug=$Unknown param.trackingaim=$ShipOrStation
             * $param.debug is the message or object to debug. Can be simple like a ship name or complex like an array of tables
             * $param.trackingaim is optional. If provided, then the debug script will only run if that entity is the player's tracking aim in game
 
-### M3/M3R/SWM3 specific
+### M3 specific
 * NAVIGATION COMPUTER MK II
     * Allows Workers to use jump beacons during their job search
     * Significant performance impact to Worker job calculation speed
@@ -178,7 +176,7 @@
 * Outposts show themselves as a candidate for export or import jobs
     * This is helpful for making generic templates that include the outpost where you are creating the template
 * Fixed multiple Supply Drone bugs
-* Economy flowcharts for Mayhem 3/Mayhem 3 Rebalanced and Star Wars Mayhem 3
+* Economy flowcharts for Mayhem 3
 
 	
 ## Ссылки на английские версии мода и более подробное описание:
@@ -188,9 +186,7 @@
     * Alaankwa: https://forum.egosoft.com/viewtopic.php?f=94&t=441824
 * Star Wars Mayhem 2 ModDB:
     * https://www.moddb.com/mods/star-wars-mayhem-2
-* Star Wars Mayhem 3 ModDB:
-    * https://www.moddb.com/games/star-wars-mayhem-3
 * X3 Mod Github Repositories:
     * Alaankwa: https://github.com/temetvince/x3ap-lu
     * Star Wars Mayhem 2: https://github.com/temetvince/x3ap-swm2
-    * Star Wars Mayhem 3: https://github.com/temetvince/x3ap-swm3
+
