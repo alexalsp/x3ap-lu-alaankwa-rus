@@ -100,84 +100,83 @@
         * Самоуничтожение
             * Эта команда приказывает кораблю самоуничтожиться.
 
-* FRESH HOTKEYS, GET YOUR HOTKEYS
-    * Decide which hotkeys are configurable in the Hotkeys Menu.
-        * Blueprint Data Scanner 
-            * This hotkey activates the Blueprint Data Scanner.
-        * Satellite Monitoring Plus
-            * This hotkey activates the Satellite Monitoring+ Menu respecting all player property, not just satellites.
-        * Ship Compendium Plus
-            * This hotkey activates the Ship Compendium+ Menu where ships are shown even if not yet discovered.
-        * All of Time
-            * CHEAT: This hotkey saves your point in time to the next slot even if you don't have Salvage Insurance.
-        * All of Space
-            * CHEAT: This hotkey adds satellites to all sectors with jumpgates which don't already have one.
-        * Phanon Industrial Espionage
-            * This hotkey activates the Phanon Debug Menu, which shows detailed Phanon corp information.
-        * Joubarbe's Player Journal
-            * This hotkey activates the Player Journal.
-* IMPROVED PILOTING
-    * Ships automatically orient "upright" in the game like they do in the movies.
-        * Overachiever
-            * Improved Piloting applies to the playership
-* STANDARDIZED FLEET OPERATIONS
-    * Escorts will attempt to follow at reasonable speeds instead of flying all over the place.
-* TOP NOTCH RECRUITERS
-    * All recruited Trade Mrk III Pilots are level 8, enough to start Galaxy trading.
-* TRADE EMBARGO
-    * Removes all NPC ships docked at player stations which are not open to race traders.
-* SEPA'S MOTHERSHIP
-    * Motherships are mobile factories which can produce lasers, missiles, shields, and ships (must be able to dock on the Mothership).
-        * Alaankwa Corsairs
-            * A unique gamestart which focuses on unlocking blueprints by scanning ships in order to build them instead of buying/selling them.
-        * Assembly Lines
-            * The Ship Building Speed is a function of the population where the population is the max marines a ship can hold multiplied by the Assembly Lines.
-        * Just in Time (JIT) Manufacturing
-            * Allows full production speed even when producing more than one type of ware.
-        * Research and Development Budget
-            * The number of data scans per type required to get the cheapest blueprint for production.
-        * Shield Expertise
-            * The maximum shield percentage of the target while using the data scanner.
-* UNDER NEW MANAGEMENT (PHANON)
-    * Enables various changes which should help Phanon corporations be more competitive.
-        * Corporate Bailouts
-            * Corporate Bailouts keep Phanon corps afloat if their balance sheet goes negative.
-        * Backroom Deals
-            * Management cuts backroom deals to lower ship manufacturing costs.
-        * Seedy Investors
-            * Management isn't afraid to finance cash from less... reputable sources.
-        * Well Connected Leadership
-            * Well Connected Leadership commands a premium in salaries.
-* AND MORE
-    * Updated LU Export/Import to support Alaankwa
-    * An optional Graphics Improvement mod utilizing ReShade is included
-        * You can take before/after screenshots that save to your root install folder with the PrintScrn button on your keyboard. To access the options in game, press [SHIFT]+[~] (or [SHIFT]+[`])
-    * A new game font, Fantasque Sans Mono
+* ГОРЯЧИЕ КЛАВИШИ
+    * Определитесь, какие горячие клавиши необходимо настроить в меню "Горячие клавиши".
+        * Сканер данных чертежей
+            * Эта горячая клавиша активирует сканер данных для чертежей.
+        * Спутниковый мониторинг плюс
+            * Эта горячая клавиша активирует меню "Спутниковый мониторинг плюс" с учетом всего имущества игрока, а не только спутников.
+        * Сравнение кораблей Plus
+            * Эта клавиша активирует меню Сравнение Кораблей Plus, в котором отображаются все корабли, даже те, которые еще не открыты.
+        * В любое время
+            * ЧИТ: Эта горячая клавиша сохраняет игру в следующий слот, даже если у вас нет страховки от несчастных случаев.
+        * Все пространство
+            * Чит: Эта горячая клавиша добавляет спутники во все сектора с прыжковыми вратами, в которых их еще нет.
+        * Промышленный шпионаж Phanon
+            * Эта горячая клавиша активирует меню отладки Phanon, в котором отображается подробная информация о корпорации Phanon.
+        * Журнал игрока Joubarbe
+            * Эта горячая клавиша открывает журнал игрока / Личный журнал.
+* УЛУЧШЕНИЕ ПИЛОТИРОВАНИЯ
+    * В игре корабли автоматически ориентированы "вертикально", как в кино.
+        * Асс
+            * Улучшенное пилотирование применяется к кораблю игроку
+* СТАНДАРТИЗАЦИЯ ОПЕРАЦИЙ ФЛОТА
+    * Сопровождающие будут стараться следовать с разумной скоростью, а не лететь на всех парах.
+* ВЫСОКОКЛАССНЫЕ РЕКРУТЕРЫ
+    * Все нанятые пилоты Торгового Мрк 3 получают 8 уровень, достаточный для начала торговли по галактике.
+* ТОРГОВОЕ ЭМБАРГО
+    * Убирает все корабли NPC, пристыкованные к станциям игроков, которые не открыты для торговцев данной расы.
+* SEPA'S МАТЕРИНСКИЙ КОРАБЛЬ
+    * Материнские корабли - это мобильные фабрики, которые могут производить лазеры, ракеты, щиты и корабли (должна быть возможность стыковаться с материнским кораблем).
+        * Корсары Алаанква
+            * Уникальный игровой старт, в котором основное внимание уделяется разблокированию чертежей путем сканирования кораблей для их постройки вместо покупки/продажи.
+        * Сборочные линии
+            * Скорость строительства кораблей зависит от численности населения, где население - это максимальное количество морских пехотинцев, которое может вместить корабль, умноженное на количество сборочных линий.
+        * Производство точно в срок
+            * Обеспечивает полную скорость производства даже при изготовлении нескольких видов изделий.
+        * Бюджетное исследования и развитие
+            * Количество сканирований данных для каждого типа, необходимое для получения самого дешевого чертежа для производства.
+        * Оценка щита
+            * Максимальный процент щита цели при использовании сканера данных.
+* ПОД НОВЫМ РУКОВОДСТВОМ (PHANON)
+    * Внесение различных изменений, которые должны помочь корпорациям Phanon стать более конкурентно способной.
+        * Корпоративные займы
+            * Корпоративные займы поддерживают корпорации Phanon на плаву, если их баланс становится отрицательным.
+        * Тайные сделки
+            * Руководство заключает тайные сделки, чтобы снизить затраты на производство кораблей.
+        * Неблагонадежные инвесторы
+            * Руководство не боится использовать для финансирования денежные средства из не слишком... надежных источников.
+        * Грамотное руководство
+            * Лидеры с хорошими связями получают высокую зарплату.
+* А ТАК ЖЕ
+    * Обновлен LU Экспорт/Импорт для поддержки Alaankwa
+    * Включен дополнительный мод улучшения графики с использованием ReShade
+        * С помощью кнопки PrintScrn на клавиатуре можно делать скриншоты "до/после", которые сохраняются в корневой папке игры. Чтобы получить доступ к опциям в игре, нажмите [SHIFT]+[~] (или [SHIFT]+[`])
+    * Новый игровой шрифт Fantasque Sans Mono
         * https://github.com/belluzj/fantasque-sans
-    * Quickshuttles notify the player when they have completed their task and have returned home.
+    * Сборщики сообщат игроку, когда он завершат задание и вернулся домой.
+    * Галактические торговцы активно распродают ненужные товары в своем трюме.
+    * Отладочные скрипты для разработчиков
+        * Можно получить любой текстовый декодируемый объект, например, таблицу массивов, и вывести его в игре для пользователя
+        * Вызываем скрипт так: $debug.return = [NULL] -> вызываем скрипт 'tv.debug': param.debug=$Unknown param.trackingaim=$ShipOrStation
+            * $param.debug - это сообщение или объект для отладки. Может быть простым, как имя корабля, или сложным, как таблица массивов.
+            * $param.trackingaim является необязательным. Если указан, то сценарий отладки будет запущен только в том случае, если объект является отслеживающей целью игрока в игре.
 
-    * Debugging scripts for development
-        * Can take in any text decodable object, say an array of tables, and output it in game to the user
-        * Call the script like this: $debug.return = [NULL] -> call script 'tv.debug': param.debug=$Unknown param.trackingaim=$ShipOrStation
-            * $param.debug is the message or object to debug. Can be simple like a ship name or complex like an array of tables
-            * $param.trackingaim is optional. If provided, then the debug script will only run if that entity is the player's tracking aim in game
-
-### M3 specific
-* NAVIGATION COMPUTER MK II
-    * Allows Workers to use jump beacons during their job search
-    * Significant performance impact to Worker job calculation speed
-        * Don't use with more than 10-20 jump beacons
+### M3 специфика
+* НАВИГАЦИОННЫЙ КОМПЬЮТЕР MK-2
+    * Дает возможность рабочим использовать прыжковые маячки во время поиска работы.
+    * Значительно влияет на скорость расчета заданий Рабочими
+        * Не используйте более 10-20 прыжковых маячков
 * SMUGGLING RUNS
-    * Allows workers to use Pirate bases during their job search
-    * Disabled by default
-        * Enable for normal M3 behavior
-* MINING DRONES
-    * Player owned outposts build mining drones which collect minerals from miners in sector
-* Outposts show themselves as a candidate for export or import jobs
-    * This is helpful for making generic templates that include the outpost where you are creating the template
-* Fixed multiple Supply Drone bugs
-* Economy flowcharts for Mayhem 3
-
+    * Разрешает рабочим использовать пиратские базы во время поиска работы
+    * Отключено по умолчанию
+        * Включить для нормального поведения M3
+* ДОБЫВАЮЩИЕ ДРОНЫ
+    * Форпосты, принадлежащие игроку, строят добывающих дронов, которые собирают минералы у шахтеров в секторе
+* Форпосты выступают в роли кандидатов на экспортные или импортные работы
+    * Это полезно для создания общих шаблонов, которые будут учитывать форпост, на котором вы создаете шаблон.
+* Исправлено несколько ошибок, связанных с дронами снабжения
+* Схема экономики для Mayhem 3
 	
 ## Ссылки на английские версии мода и более подробное описание:
 * temetvince Youtube Playlists (X3 Mod Install Videos):
