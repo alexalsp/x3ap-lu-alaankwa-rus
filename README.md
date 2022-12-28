@@ -31,28 +31,7 @@
 * https://discord.gg/vw2sqFrbFp [RUS]
 
 ## Установка
-### Загрузка
-* No-Steam Exe: https://www.egosoft.com/download/x3ap/bonus_en.php
-* ReShade: https://reshade.me/
-* Alaankwa: https://github.com/temetvince/alaankwa/releases
-* LU: http://litcube.xtimelines.net/wiki/index.php/Download
-* STLU: https://www.moddb.com/mods/star-trek-litcubes-universe/downloads
-* SWLU: https://www.moddb.com/mods/star-wars-lu-swlu/downloads
-* GiC: https://www.moddb.com/mods/star-wars-lu-swlu/addons
-* M3: https://www.moddb.com/mods/mayhem/downloads
-* M3ZH: https://github.com/Hector839/Mayhem-3-Zero-Hour/releases
 
-### Загрузка русских версий
-* Alaankwa: https://apocalypse.moy.su/forum/341-1737-1
-* LU: https://apocalypse.moy.su/forum/341-1290-1
-* STLU: https://apocalypse.moy.su/forum/341-1760-1
-* SWLU: https://apocalypse.moy.su/forum/341-1290-1
-* GiC: https://apocalypse.moy.su/forum/341-1704-1
-* M3: https://apocalypse.moy.su/forum/341-1598-1
-* M3ZH: https://apocalypse.moy.su/forum/341-1763-1
-* Раздел форума с модами: https://apocalypse.moy.su/forum/341
-
-## Установка
 ### Предварительная установка
 * По желанию скачайте и установите ReShade
   * https://reshade.me/
@@ -71,27 +50,7 @@
 3. Установите патч Alaankwa для вашей версии игры
 
 ### После установки
-* Если вам не нравится новый шрифт, удалите папку 'f' в корневом каталоге установки 'x3 terran conflict'.
-
-
-## Что за папки в моде и для чего они:
-
-1. **Step 1 - Install ReShade (Optional)** - Установка *Reshade*. Если хотите, но я лично ни когда его не устанавливал. 
-2. **Step 2 - Install Alaankwa** - сам мод и устанавливается всегда первым, потом при необходимости патчи из *папки №3*. Эта папка содержит в себе основные файлы мода и предназначена для чистой *Litcube*.
-3. **Step 3 - Install Alaankwa Patch**
-   - **Install if playing GiC** - если вы играете в *LU SW CIG* мод.
-   - **Install if playing M3 or SWM3** - для *Mayhem 3* и для *LUSW Mayhem 3*
-   - **Install if playing SWLU without Purls Extra Ships Pack** - если вы установили *LUSW*
-   - **Install if playing SWLU with Purls Extra Ships Pack** - если вы установили *LUSW + мод SWLU Extra Ships v.0.3*(для русской и английской версии игры) - https://apocalypse.moy.su/forum/341-1744-1
-
-
-### ПРИМЕР
-
- Вы установили мод **Litcube Mayhem Star Wars**, что вы должны сделать:
- - из папки **Step 2 - Install Alaankwa** в папку игры скопировать с заменой все файлы.
- - из папки **Step 3 - Install Alaankwa Patch \ Install if playing M3 or SWM3** скопировать в папку игры все файлы с заменой.
- 
- Как вы видите файлы из папки 2 всегда должны быть скопированы первыми.
+* Если вам не нравится новый шрифт, удалите папку 'f' в корневом каталоге установки 'x3 terran conflict' (в русской версии эта папка удалена так как шрифт для английской версии мода) Для русской версии игры, можете подобрать шрифты тут https://apocalypse.moy.su/forum/351-1742-1.
  
 ## Особенности
 ### Общее
@@ -212,6 +171,27 @@
 * Так же спасибо **alexalsp** за адаптацию мода на русский язык.
     * https://apocalypse.moy.su/forum/341-1737
 * Так же спасибо **temetvince** за его мод **Alaankwa**
+
+### Загрузка английских версий
+* No-Steam Exe: https://www.egosoft.com/download/x3ap/bonus_en.php
+* ReShade: https://reshade.me/
+* Alaankwa: https://github.com/temetvince/alaankwa/releases
+* LU: http://litcube.xtimelines.net/wiki/index.php/Download
+* STLU: https://www.moddb.com/mods/star-trek-litcubes-universe/downloads
+* SWLU: https://www.moddb.com/mods/star-wars-lu-swlu/downloads
+* GiC: https://www.moddb.com/mods/star-wars-lu-swlu/addons
+* M3: https://www.moddb.com/mods/mayhem/downloads
+* M3ZH: https://github.com/Hector839/Mayhem-3-Zero-Hour/releases
+
+### Загрузка русских версий
+* Alaankwa: https://apocalypse.moy.su/forum/341-1737-1
+* LU: https://apocalypse.moy.su/forum/341-1290-1
+* STLU: https://apocalypse.moy.su/forum/341-1760-1
+* SWLU: https://apocalypse.moy.su/forum/341-1290-1
+* GiC: https://apocalypse.moy.su/forum/341-1704-1
+* M3: https://apocalypse.moy.su/forum/341-1598-1
+* M3ZH: https://apocalypse.moy.su/forum/341-1763-1
+* Раздел форума с модами: https://apocalypse.moy.su/forum/341
 
 ## Ссылки на английские версии мода и более подробное описание:
 
