@@ -4,18 +4,26 @@
 # Поддержка Alaankwa 9.9.0
 * Это последняя версия поддерживающая: M3, SWM3, Star Trek LU, Star Wars LU, Mayhem Zero Hour, Purls Extra Ships Pack (мод alaankwa будет интегрирован в текущие моды в их новых обновлениях) - https://github.com/alexalsp/x3ap-lu-alaankwa-rus/releases/tag/v9.9.0
 
+# Поддержка Alaankwa 9.10.10
+* Это последняя версия поддерживающая: Ванильные версии игры X3TC, X3AP и X3FL (После продолжительных тестов выяснилось, что мод не работает правильно для ванильной версии игры X3TC и X3AP.)
+	* Для X3FL создан новый мод TVM - https://github.com/temetvince/tvm
+	
+# Alaankwa 9.11x
+* Это версия поддерживает только: X3 litcubes-universe 	https://github.com/alexalsp/x3ap-lu-alaankwa-rus/releases
+
 # Домашняя страница 
 * https://apocalypse.moy.su
 
 # Репаки глобальных модов
 * https://apocalypse.moy.su/forum/216 
 
-**Поддержка сайта и проектов**
+**Поддержка**
 
-* https://goo.gl/eUn3pb | https://u.to/TN4iFg
-* WMZ: Z143317192317  
-* WMR: R281809367609 
-* WMP: P407353549505
+* Boosty - https://boosty.to/alexalsp/donate
+* Webmoney - https://funding.webmoney.ru/stati-novosti-programmy-mody
+* WMZ: Z143317192317 | WMB: X706980753649
+* Payeer: P48650932
+* Рaypal - https://www.paypal.com/donate/?hosted_button_id=QF2HWK7JH67B4
 
 # Alaankwa ENG
 * Английская оригинальная ветка мода Alaankwa: https://github.com/temetvince/alaankwa/releases/
