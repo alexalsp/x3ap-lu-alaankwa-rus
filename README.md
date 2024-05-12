@@ -21,9 +21,10 @@
 
 * Boosty - https://boosty.to/alexalsp/donate
 * Webmoney - https://funding.webmoney.ru/stati-novosti-programmy-mody
-* WMZ: Z143317192317 | WMB: X706980753649
+* WMZ: Z143317192317
 * Payeer: P48650932
 * Рaypal - https://www.paypal.com/donate/?hosted_button_id=QF2HWK7JH67B4
+* ko-fi - https://ko-fi.com/alexalsp
 
 # Alaankwa ENG
 * Английская оригинальная ветка мода Alaankwa: https://github.com/temetvince/alaankwa/releases/
